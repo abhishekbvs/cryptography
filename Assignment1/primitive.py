@@ -1,4 +1,5 @@
-#Primitive
+# Primitive elements
+
 a = [39877,31319,39869]
 for i in range(3):
     b=[1]
